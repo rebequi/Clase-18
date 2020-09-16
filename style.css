@@ -53,3 +53,7 @@ body {
   .rosa {
     color: pink;
   }
+
+  .borrar {
+    display: none;
+  }
